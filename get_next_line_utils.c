@@ -6,29 +6,11 @@
 /*   By: hlibine <hlibine@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 11:10:57 by hlibine           #+#    #+#             */
-/*   Updated: 2023/11/21 12:44:20 by hlibine          ###   ########.fr       */
+/*   Updated: 2024/02/02 13:20:49 by hlibine          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-
-void	ft_bzero(void *s, size_t n)
-{
-	size_t	i;
-	char	*str;
-
-	i = 0;
-	str = (char *)s;
-	if (n != 0)
-	{
-		while (i < n)
-		{
-			str[i] = 0;
-			i++;
-		}
-	}
-	return ;
-}
 
 int	ft_strlencust(const char *str)
 {
