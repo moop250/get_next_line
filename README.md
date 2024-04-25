@@ -14,13 +14,13 @@
 ![](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 ![](	https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-![](https://img.shields.io/github/languages/code-size/hlibine/get_next_line?color=5BCFFF)
+![](https://img.shields.io/github/languages/code-size/moop250/get_next_line?color=5BCFFF)
 
 ## Usage 
 
 To clone the repository use:
 ```bash
-git clone https://github.com/hlibine/get_next_line.git
+git clone https://github.com/moop250/get_next_line.git
 ```
 
 Example usage in a C program:
